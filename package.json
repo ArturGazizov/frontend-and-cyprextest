@@ -9,7 +9,7 @@
     "test": "react-scripts test",
     "eslint": "eslint .",
     "cypress:open": "cross-env NODE_ENV=test cypress open --env NODE_ENV=test",
-    "start:test": "cross-env NODE_ENV==test concurrently \"cross-env NODE_ENV=test nodemon index.js\" \"cross-env NODE_ENV=test PORT=3000 react-scripts start\""
+    "start:test": "cross-env NODE_ENV=test concurrently \"cross-env NODE_ENV=test nodemon index.js\" \"cross-env NODE_ENV=test PORT=3000 react-scripts start\""
   },
   "eslintConfig": {
     "extends": "react-app"
