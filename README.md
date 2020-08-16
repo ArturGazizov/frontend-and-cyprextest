@@ -8,7 +8,11 @@ liking, viewing, seeing details of blog, deleting it by author is possible
 
 PropTypes used
 
-css classes used for testing, tests in tests folder and in cypress/integration/examples and in src/components/blog.test.js
+css classes used for testing, tests in folder called tests and in cypress/integration/examples and in src/components/blog.test.js
+to test run
+npm run cypress:open
+npm run start:test
+
 
 
 do not run the eslint --init command. It will install the latest version of ESlint that is not compatible 
