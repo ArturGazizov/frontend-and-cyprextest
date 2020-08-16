@@ -8,7 +8,8 @@ liking, viewing, seeing details of blog, deleting it by author is possible
 
 PropTypes used
 
-css classes used for testing, tests are in and in cypress/integration/examples and in src/components/blog.test.js
+css classes used for testing, 
+tests with all test names are in and in cypress/integration/examples and in src/components/blog.test.js
 to test run
 npm run cypress:open
 npm run start:test
