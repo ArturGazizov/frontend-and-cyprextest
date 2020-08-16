@@ -15,6 +15,12 @@ npm run cypress:open
 npm run start:test
 
 
+to run jest test type to package.json command
+"test": "NODE_ENV=test jest --verbose --runInBand"
+and use it
+
+
+
 (folder tests from previous exercise)
 
 
