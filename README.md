@@ -15,7 +15,7 @@ npm run cypress:open
 npm run start:test
 
 
-(folder test from previous exercise)
+(folder tests from previous exercise)
 
 
 do not run the eslint --init command. It will install the latest version of ESlint that is not compatible 
